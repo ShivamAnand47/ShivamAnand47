@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ShivamAnand47
-- 👀 I’m interested in Game Developement.
-- 🌱 I’m currently learning Unity 3D and C# as a scripting language.
-- 💞️ I’m looking to collaborate with other Game Developing companies.
+🎮 Game virtuoso in Unity's coding symphony 
+🚀 Crafting interactive worlds, pixel by pixel 
+🌟 Debugging reality glitches with C# sorcery 
+🧙‍♂️ Join me on this epic quest! #UnityDeveloper #GameDevExtraordinaire
 - 📫 How to reach me .. Here's my linkedin profile link : https://www.linkedin.com/in/shivam47/
 
 <!---
